@@ -1,0 +1,58 @@
+export const movieData=[
+    {
+        id:Math.random(),
+        image:"https://upload.wikimedia.org/wikipedia/en/4/44/One_Piece_Film_Red_Visual_Poster.jpg",
+        rating:5,
+        name:"One Piece Red",
+        date:"2022",
+    },
+    {
+        id:Math.random(),
+        image:"https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+        rating:3,
+        name:"TOP GUN : Maverick",
+        date:"2022",
+    },
+    {
+        id:Math.random(),
+        image:"https://m.media-amazon.com/images/M/MV5BNzE5MmM4M2ItMDMyZC00MTc0LTgwMDUtNjc2MWZlZDU1OTBlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        rating:3,
+        name:"Dragon Ball Z",
+        date:"2009",
+    },
+    {
+        id:Math.random(),
+        image:"https://static.dc.com/dc/files/default_images/KeyarJL_TheLeague_Keyart_5a206235e32cc1.07186227.jpg",
+        rating:2,
+        name:"Justice League",
+        date:"2017",
+    }, 
+    {
+        id:Math.random(),
+        image:"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/A1t8xCe9jwL.jpg",
+        rating:4,
+        name:"Avengers : Infinty War",
+        date:"2018",
+    }, 
+    {
+        id:Math.random(),
+        image:"https://m.media-amazon.com/images/M/MV5BNDhiODUyN2UtYTQzZi00YTE0LWJiMWEtYTVlODEyZDQwYzRhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+        rating:5,
+        name:"Tenet",
+        date:"2020",
+    }, 
+    {
+        id:Math.random(),
+        image:"https://upload.wikimedia.org/wikipedia/en/b/b9/Hangoverposter09.jpg",
+        rating:5,
+        name:"HangOver 1",
+        date:"2009",
+    }, 
+    {
+        id:Math.random(),
+        image:"https://m.media-amazon.com/images/M/MV5BYmIzMzk2OTgtNWI1ZC00YTQxLWJiYWYtMzE5MTY4ODRiMTEzXkEyXkFqcGdeQXVyNzAwMjc4ODA@._V1_.jpg",
+        rating:4,
+        name:"Naked",
+        date:"2017",
+    },
+]
