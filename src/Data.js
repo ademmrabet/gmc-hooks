@@ -5,6 +5,8 @@ export const movieData=[
         rating:5,
         name:"One Piece Red",
         date:"2022",
+        description:"anime movie for the precious one piece fans",
+        trailerVideoLink:""
     },
     {
         id:Math.random(),
@@ -12,6 +14,9 @@ export const movieData=[
         rating:3,
         name:"TOP GUN : Maverick",
         date:"2022",
+        description:"for those who love action and thrill this is the movie for you",
+        trailerVideoLink:""
+
     },
     {
         id:Math.random(),
@@ -19,6 +24,9 @@ export const movieData=[
         rating:3,
         name:"Dragon Ball Z",
         date:"2009",
+        description:"you like to yell and dye your hair blue??? oh wait those are called feminists...anyways this is dragon ball z where everything is possible",
+        trailerVideoLink:""
+
     },
     {
         id:Math.random(),
@@ -26,6 +34,9 @@ export const movieData=[
         rating:2,
         name:"Justice League",
         date:"2017",
+        description:"DC i'm really disappointed in how y'all made flash look like that...",
+        trailerVideoLink:""
+
     }, 
     {
         id:Math.random(),
@@ -33,6 +44,9 @@ export const movieData=[
         rating:4,
         name:"Avengers : Infinty War",
         date:"2018",
+        description:"chills, pure chills going down my spine",
+        trailerVideoLink:""
+
     }, 
     {
         id:Math.random(),
@@ -40,6 +54,9 @@ export const movieData=[
         rating:5,
         name:"Tenet",
         date:"2020",
+        description:"OH GOD...JUST WATCH IT, PERFECT MENTAL ORGASM",
+        trailerVideoLink:""
+
     }, 
     {
         id:Math.random(),
@@ -47,6 +64,9 @@ export const movieData=[
         rating:5,
         name:"HangOver 1",
         date:"2009",
+        description:"this particular movie was the reason behind my drug journey",
+        trailerVideoLink:""
+
     }, 
     {
         id:Math.random(),
@@ -54,5 +74,8 @@ export const movieData=[
         rating:4,
         name:"Naked",
         date:"2017",
+        description:"I MEAN who doesn't love rewind the same day over and over until you get it right",
+        trailerVideoLink:""
+
     },
 ]
